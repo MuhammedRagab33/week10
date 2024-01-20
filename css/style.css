@@ -1,0 +1,21 @@
+h1 {
+    color: #17a2b8;
+}
+.text{
+    color: blue;
+}
+input,textarea {
+    background-color: transparent !important;
+    color: #cd3030 !important;
+}
+input::placeholder,
+textarea::placeholder {
+    color: rgb(216, 47, 47) !important;
+}
+input:focus,
+textarea:focus {
+    box-shadow: 0 0 0 0 transparent !important;
+}
+.home{
+    background: #24353f;
+}
